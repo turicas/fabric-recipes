@@ -1,7 +1,7 @@
-Fabric Receipes
-===============
+Fabric Recipes
+==============
 
-Just some useful receipes I wrote using Fabric.
+Just some useful recipes I wrote using Fabric.
 
 If you don't know Fabric, please visit:
 - [Fabric's website](http://fabfile.org/)
